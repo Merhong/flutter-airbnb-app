@@ -93,10 +93,7 @@ class HomeBodyPopularItem extends StatelessWidget {
         const SizedBox(width: gap_s),
         Column(
           children: [
-            Text(
-              "데어",
-              style: subtitle1(),
-            ),
+            Text("데어", style: subtitle1()),
             const Text("한국"),
           ],
         )
